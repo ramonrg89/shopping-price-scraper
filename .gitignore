@@ -1,0 +1,12 @@
+# Ignore credentials files
+token.json
+client_secret.json
+
+# Ignore Python virtual environments
+.venv/
+
+# Ignore other common files
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log
